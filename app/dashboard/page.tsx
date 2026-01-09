@@ -89,7 +89,7 @@ export default async function DashboardPage() {
       {/* MAIN */}
       <div style={{ flex: 1 }}>
         <iframe
-          src="https://pharmedbot-2vryvh.sandbox.livekit.io/"
+          src="https://improsyn-opsccd.sandbox.livekit.io/"
           style={{
             width: "100%",
             height: "100%",
